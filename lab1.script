@@ -1,0 +1,15 @@
+Script started on 2017年03月13日 (週一) 14時58分41秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m cat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pgit config -llone https://github.com/mobetau82856/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[Ko[C[C[C[C[C[C[C[C[C[C[C[2Pwhoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwdcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pgit config -l
+user.email=mobetau82856@gmail.com
+user.name=mobetau82856
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l[Kgit config -l[2Pwhoami; pwdcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pgit config -llone https://github.com/mobetau82856/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月13日 (週一) 14時59分09秒
